@@ -1,6 +1,11 @@
 # College Placement Data Analysis
 
 Analyzed college placement data to find trends, top colleges, and top hiring companies using Excel and Python.
+##  Visualizations
+
+### Top 10 Colleges by Average Salary
+![Top Colleges](top_colleges.png)
+
 
 ## Key Highlights
 - Top 10 Colleges by Average Placement Salary
