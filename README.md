@@ -5,6 +5,11 @@ Analyzed college placement data to find trends, top colleges, and top hiring com
 
 ### Top 10 Colleges by Average Salary
 ![Top Colleges](top_colleges.png)
+### Top Hiring Companies
+![Top Companies](top_companies.png)
+
+### Students Placed Trend by Year
+![Students Trend](trend.png)
 
 
 ## Key Highlights
